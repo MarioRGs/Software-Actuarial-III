@@ -22,5 +22,5 @@ mediacontaminante <- function(directorio, contaminante, id = 1:332){
 
 }
 
-mediacontaminante(directorio,"sulfate",1:332)
-mediacontaminante(directorio,"nitrate",1:332)
+mediacontaminante(directorio,"sulfate",1:10)
+mediacontaminante(directorio,"nitrate",23)

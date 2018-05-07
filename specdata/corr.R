@@ -19,5 +19,5 @@ corr <- function(directorio, horizonte = 0){
   m
 }
   
-corr(directorio, 10)
+corr(directorio, 250)
 
